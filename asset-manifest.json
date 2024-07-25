@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sd1810/sakshi.github.io/static/css/main.e92d6613.chunk.css",
+    "main.js": "/sd1810/sakshi.github.io/static/js/main.b403be06.chunk.js",
+    "main.js.map": "/sd1810/sakshi.github.io/static/js/main.b403be06.chunk.js.map",
+    "runtime-main.js": "/sd1810/sakshi.github.io/static/js/runtime-main.d1e5c44f.js",
+    "runtime-main.js.map": "/sd1810/sakshi.github.io/static/js/runtime-main.d1e5c44f.js.map",
+    "static/css/2.fd277b09.chunk.css": "/sd1810/sakshi.github.io/static/css/2.fd277b09.chunk.css",
+    "static/js/2.8e48d46e.chunk.js": "/sd1810/sakshi.github.io/static/js/2.8e48d46e.chunk.js",
+    "static/js/2.8e48d46e.chunk.js.map": "/sd1810/sakshi.github.io/static/js/2.8e48d46e.chunk.js.map",
+    "index.html": "/sd1810/sakshi.github.io/index.html",
+    "precache-manifest.85f9e1cf43d9e170c26358581786621f.js": "/sd1810/sakshi.github.io/precache-manifest.85f9e1cf43d9e170c26358581786621f.js",
+    "service-worker.js": "/sd1810/sakshi.github.io/service-worker.js",
+    "static/css/2.fd277b09.chunk.css.map": "/sd1810/sakshi.github.io/static/css/2.fd277b09.chunk.css.map",
+    "static/css/main.e92d6613.chunk.css.map": "/sd1810/sakshi.github.io/static/css/main.e92d6613.chunk.css.map",
+    "static/js/2.8e48d46e.chunk.js.LICENSE.txt": "/sd1810/sakshi.github.io/static/js/2.8e48d46e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1e5c44f.js",
+    "static/css/2.fd277b09.chunk.css",
+    "static/js/2.8e48d46e.chunk.js",
+    "static/css/main.e92d6613.chunk.css",
+    "static/js/main.b403be06.chunk.js"
+  ]
+}

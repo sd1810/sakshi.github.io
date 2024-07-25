@@ -1,0 +1,137 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Sakshi Dhavalshankh a Fullstack Engineer with over 2+ years of experience, specializing in AngularJS and RESTful APIs. I have a passion for continuous learning and am quick to adapt to new technologies 👩🏻‍💻. Currently, I am delving into Distributed Systems, expanding my skill set and deepening my understanding of scalable architectures. My goal is to leverage my expertise to create impactful solutions in dynamic and innovative environments. Outside of work, you can find me painting or enjoying a good book 📚.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "CollabHub",
+        "startDate": "2022",
+        "description": "Built a dynamic platform empowering students to collaboratively engage in technical projects and explore project concepts with ease. Integrated real-time chat rooms and video conferencing capabilities via Zoom API, enhancing user interaction and collaboration.",
+        "images": [
+          "images/project/collab.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express-original-wordmark",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Discord Bot",
+        "startDate": "2021",
+        "description": "Developed a Discord Bot delivering daily stock updates based on company names. Implemented comprehensive data visualization using library Chart.js, providing users with intuitive graphs and charts.",
+        "images": [
+          "images/project/bot.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "OLX Clone",
+        "startDate": "2020",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/project/e-commerce.jpeg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "My SQL"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "University of Califronia, Irvine",
+        "title": "Master's Degree",
+        "years": "September 2024 - December 2025",
+        "logo": "images/uci.png",
+        "mainTech": [
+        ],
+        "technologies": [
+          "Operating Systems",
+          "Advanced Programming and Problem Solving"
+        ]
+      },
+      {
+        "company": "BNY Mellon, Pune India",
+        "title": "Senior Fullstack Engineer",
+        "years": "July 2022 - August 2024",
+        "logo": "images/bny.png",
+        "mainTech": [
+          "AngularJS",
+          "Java"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "TypeScript",
+          "Angular Material",
+          "Spring Boot",
+          "Microservices"
+        ]
+      },
+      {
+        "company": "BNY Mellon, Pune India",
+        "title": "Software Development Engineer Intern",
+        "years": "January 2022 - June 2022",
+        "logo": "images/bny.png",
+        "mainTech": [
+          "AngularJS"
+        ],
+        "technologies": [
+          "TypeScript",
+          "HTML",
+          "CSS",
+          "Java"
+        ]
+      },
+      {
+        "company": "Pune Institute Of Computer Technology",
+        "title": "Bachelor of Engineering",
+        "years": "August 2018 - April 2022",
+        "logo": "images/pict.jpeg",
+        "mainTech": [
+          "CGPA - 9.56 / 10"
+        ],
+        "technologies": [
+          "Operating Systems",
+          "Database Management",
+          "Data Structure and Algorithm"
+        ]
+      }
+    ]
+  }
