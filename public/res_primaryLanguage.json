@@ -17,7 +17,7 @@
         "images": [
           "images/project/collab.jpg"
         ],
-        "url": "",
+        "url": "https://github.com",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,7 +55,7 @@
       {
         "title": "OLX Clone",
         "startDate": "2020",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "description": "OLX Clone is an e-commerce website for college students to buy and sell things on campus. On this website, one could sell books/notes and hostel essentials. To build this e-commerce website, I used React.js, Express, and SQL databases as the tech stacks.",
         "images": [
           "images/project/e-commerce.jpeg"
         ],
