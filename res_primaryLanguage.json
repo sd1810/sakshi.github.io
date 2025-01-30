@@ -11,25 +11,17 @@
     },
     "projects": [
       {
-        "title": "CollabHub",
-        "startDate": "2022",
-        "description": "Built a dynamic platform empowering students to collaboratively engage in technical projects and explore project concepts with ease. Integrated real-time chat rooms and video conferencing capabilities via Zoom API, enhancing user interaction and collaboration.",
+        "title": "AI Caption Generator",
+        "startDate": "2025",
+        "description": "The AI Caption Generator is an innovative tool designed to transform the way you create captions for social media. By leveraging llama3.2-Vision-Instruct model, this application analyzes the content of an image and generates creative, relevant, and engaging caption suggestions tailored for various social media platforms.",
         "images": [
-          "images/project/collab.jpg"
+          "images/project/aiProject.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/sd1810/AI_Caption_Generator",
         "technologies": [
           {
             "class": "devicon-react-original",
             "name": "React"
-          },
-          {
-            "class": "devicon-express-original-wordmark",
-            "name": "Express"
-          },
-          {
-            "class": "devicon-mongodb-plain",
-            "name": "MongoDB"
           }
         ]
       },
@@ -40,7 +32,7 @@
         "images": [
           "images/project/bot.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/sd1810/StockBot",
         "technologies": [
           {
             "class": "devicon-python-plain",
@@ -59,7 +51,7 @@
         "images": [
           "images/project/e-commerce.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://github.com/sd1810/PICT-OLX",
         "technologies": [
           {
             "class": "devicon-react-original",
